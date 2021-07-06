@@ -56,6 +56,17 @@ span {
 .topnavbar a:hover {
   background-color: #048cf7;
 }
+.offer {
+  font-size: 3rem;
+  color: #fff;
+  position: relative;
+  top: 39%;
+  left: 22%;
+}
+.offer-heading {
+  background-color: #0389f79d;
+  padding: 0 20px;
+}
 
 /* order now */
 .order-now {
@@ -72,7 +83,7 @@ span {
 .button {
   color: #fff;
   text-decoration: none;
-  background-image: linear-gradient(#73c1eb, #0389f7);
+  background-image: linear-gradient(#5dbbee, #2e9bf3);
   padding: 20px 35px;
   border-radius: 40px;
   font-weight: 500;
@@ -123,7 +134,7 @@ span {
 }
 .one-third img {
   width: 90%;
-  height: 170px;
+  height: 200px;
   border-radius: 15px;
   margin: 18px 5%;
 }
@@ -143,6 +154,7 @@ span {
 .social-count {
   display: flex;
   margin: 5% auto;
+  margin-bottom: 10%;
   width: 95%;
   background-color: #fff;
   border-radius: 15px;
